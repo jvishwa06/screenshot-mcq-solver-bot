@@ -11,6 +11,9 @@ A tool that answer multiple-choice questions, extracts text using OCR, and analy
   - Google Gemini
   - Groq (Llama 3.3)
   - Mistral AI
+- Parallel processing:
+  - Uses Python's `concurrent.futures` for parallel API calls
+  - Implements `asyncio` for asynchronous operations in the Telegram bot
 
 ## Setup
 
